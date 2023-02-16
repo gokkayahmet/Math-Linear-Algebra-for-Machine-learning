@@ -30,4 +30,13 @@ $$|1 2 3|
 |7 8 9|$$
 
 
+
+
+
+
+
+
+
+
+
 $${\color{Blue} \texttt{AHMET MAHMUT GOKKAYA}}$$

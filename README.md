@@ -3,7 +3,7 @@ Linear algebra is a branch of mathematics that deals with the theory and applica
 
 
 
-$\begin{bmatrix}
+$$\begin{bmatrix}
 1 & 2 \
 3 & 4
-\end{bmatrix}$
+\end{bmatrix}$$

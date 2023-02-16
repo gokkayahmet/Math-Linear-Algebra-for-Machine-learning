@@ -7,3 +7,24 @@ $$\begin{bmatrix}
 1 & 2 \
 3 & 4
 \end{bmatrix}$$
+
+
+This creates a matrix that looks like:
+
+$$|1 2|
+|3 4|$$
+
+You can also use other matrix environments, such as pmatrix, vmatrix, and bmatrix, depending on the style you prefer. Here's an example of a 3x3 matrix using the pmatrix environment:
+
+$$\begin{pmatrix}
+1 & 2 & 3 \
+4 & 5 & 6 \
+7 & 8 & 9
+\end{pmatrix}$$
+
+
+This creates a matrix that looks like:
+
+$$|1 2 3|
+|4 5 6|
+|7 8 9|$$
